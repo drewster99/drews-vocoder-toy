@@ -4,7 +4,11 @@ A real-time channel vocoder that runs in your Mac's Terminal. Talk or sing into 
 
 ## Hear It First - Demo Video
 
-<video src="demo_video/vocoder_demo.mp4"></video>
+
+
+https://github.com/user-attachments/assets/6f52b2ba-d79b-417a-835f-af2889619cbc
+
+
 
 The video is built on these 3 audio files, which can be found in the [demo_video](demo_video) folder:
 
