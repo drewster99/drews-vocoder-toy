@@ -1,0 +1,24 @@
+Here's the actual prompt I gave claude, verbatim:
+
+OK, here's the plan. Look at the 3 audio files in this folder.
+
+OK, we are going to make a video out of them.
+
+We will first do built-in-pitch-track-chord, then scratchy-robot and finally manyvoice, in that order.
+
+For the first 6 seconds, we want a banner centered horizontally and offset by 10% from the top of the screen, medium size, that says "(Unmute your sound to listen)", with 1 second visible, 1 second hidden, repeating.
+
+The banner should have yellow background (rectangular) and black text bold, 24 point at least.
+
+For each of the 3 sounds, we'll need:
+
+1. Show the name of each, like "Pitch Tracked Chord" or "Scratchy Robot" or "Many Voices Robot".
+The name should clearly visible and just below where the yellow unmute banner will be.
+
+2. Show a visualization while playing. It would be cool if it were based on the audio. We could show a waveform. The main thing is that it needs to LOOK cool.
+
+3. For each of the 3 sounds, we need a different colored background, or a different colored visualization if the visualization takes up a lot of the screen and is colorful.
+
+The visualizations could either by all the style but different colors, or they could be 3 different styles (also with different colors).
+
+Lastly, instead of making this directly, we should make scripts or python code to generate everything, so we can regenerate or iterate fairly easily.

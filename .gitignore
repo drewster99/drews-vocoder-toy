@@ -1,0 +1,12 @@
+# Build output
+drews_vocoder_toy
+
+# macOS
+.DS_Store
+
+# WAV recordings captured during sessions
+*.wav
+
+# Claude settings and such
+.claude
+.claude/**
